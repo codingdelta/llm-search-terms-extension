@@ -1,4 +1,4 @@
-# LLM Search Terms Plugin 🔍
+# LLM Search Terms Extension 🔍
 
 **LLM Search Terms Plugin** is a _free browser extension_ that captures and displays the search terms from ChatGPT conversations as they stream in.
 

@@ -45,7 +45,7 @@ function createOrUpdateUI(searchQueries) {
     interceptedDataDiv.style.cssText = `
         position: fixed;
         top: 20px;
-        right: 20px;
+        left: 20px;
         max-width: 300px;
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         color: white;
@@ -58,7 +58,7 @@ function createOrUpdateUI(searchQueries) {
         line-height: 1.4;
         z-index: 10000;
         opacity: 0;
-        transform: translateX(100%);
+        transform: translateX(-100%);
         transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         backdrop-filter: blur(10px);
         border: 1px solid rgba(255, 255, 255, 0.1);
