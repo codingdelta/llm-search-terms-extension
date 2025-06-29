@@ -1,11 +1,12 @@
 # LLM Search Terms Plugin 🔍
 
-LLM Search Terms Plugin is a free browser extension that captures and displays the search terms from ChatGPT conversations as they stream in.
+**LLM Search Terms Plugin** is a _free browser extension_ that captures and displays the search terms from ChatGPT conversations as they stream in.
 
-LLMs are starting to take market share from traditional search engines. Next to ranking in traditional search engines, it becomes important to rank well in LLMs, like ChatGPT, Perplexity, Gemini, etc.
+**LLMs are starting to take market share from traditional search engines.** Next to ranking in traditional search engines, it becomes important to rank well in LLMs, like **ChatGPT**, **Perplexity**, **Gemini**, etc.
 
-Therefore, it is important to know what search terms LLMs use to find information. This extension captures the search terms from ChatGPT conversations and displays them in a popup. This allows you to better understand the way ChatGPT searches the web and adjust your content accordingly.
+Therefore, it is important to know what search terms LLMs use to find information. This extension captures the search terms from ChatGPT conversations and displays them in a popup. This allows you to better understand the way **ChatGPT searches the web** and adjust your content accordingly.
 
+A small popup will appear in the top right corner of the screen with the search terms ChatGPT used:
 ![Example](/assets/search-terms.png)
 
 ---
